@@ -1,6 +1,6 @@
 ### Hi there 👋
 Студент Школы 21 на платформе Intra.
-NickName pcorina.</br>
+NickName pcorina. </br>
 ![pcorina's 42 stats](https://badge42.vercel.app/api/v2/cl445u09f001109jr6w9u48qd/stats?cursusId=21&coalitionId=103)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdarov&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
